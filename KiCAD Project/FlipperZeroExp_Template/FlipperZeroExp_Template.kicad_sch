@@ -1,0 +1,56 @@
+(kicad_sch
+	(version 20250114)
+	(generator "eeschema")
+	(generator_version "9.0")
+	(uuid "093583c2-2940-4df7-90b7-f1a2eef92dd2")
+	(paper "A4")
+	(lib_symbols)
+	(sheet
+		(at 101.346 37.592)
+		(size 36.576 29.464)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "d77e7458-0e5a-45be-8dc3-10d74aa47b7d")
+		(property "Sheetname" "Connector"
+			(at 101.346 36.8804 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "connector.kicad_sch"
+			(at 101.346 67.6406 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "FlipperZeroExp_Template"
+				(path "/093583c2-2940-4df7-90b7-f1a2eef92dd2"
+					(page "2")
+				)
+			)
+		)
+	)
+	(sheet_instances
+		(path "/"
+			(page "1")
+		)
+	)
+	(embedded_fonts no)
+)
